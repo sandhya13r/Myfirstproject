@@ -1,2 +1,2 @@
-print("Hello, GSoC 2026!")
+print("Hello, GSoC 2027!")
 
