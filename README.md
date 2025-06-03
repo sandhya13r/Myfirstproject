@@ -1,12 +1,15 @@
-# Myfirstproject
+# 👋 Hi, I'm Sandhya
 
-This is a simple Python project created to test my Git and GitHub setup.
+🎓 1st-year B.Tech CSE + BS Data Science @ IIT Madras  
+💻 Passionate about Open Source, Python, Web Dev  
+🔍 Preparing for MLH Fellowship 2026 & GSoC 2027  
 
-## File
+## 🛠️ Projects
+Working on:
+- 🔧 Flask Todo App (June 2025)
+- 📁 GitHub Issue Tracker CLI (July 2025)
+- 🌐 Personal Portfolio Website (June 2025)
 
-- `hello.py`: Prints a welcome message for GSoC 2026!
+## 📬 Contact
+- 📧 sandhyaramadoss18@gmail.com
 
-## How to Run
-
-```bash
-python hello.py
