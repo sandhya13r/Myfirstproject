@@ -3,6 +3,6 @@
 1st year ECE Student @ SRM + BS Data Science @ IIT Madras  
 Passionate about Open Source, Web Development, Data Science
 
-## 📬 Contact
+##  Contact
 sandhyaramadoss18@gmail.com
 
